@@ -11,3 +11,7 @@ Fazendo o push
 Fazendo o merge com conflito
 
 Lição 22 - vê YouTube
+
+Quarta feira estudei os conflito com merge
+
+Amanhã vou começar a estudar lição 25/32 - ver o vídeo
